@@ -9,7 +9,7 @@ One of the primary goals when creating popYup.js was to provide for a very "mobi
 
 popYup.js works with all the usual suspects; iframes, images, ajax, DOM elements and inline content. 
 
-
+<br><br>
 
 **************************
 
@@ -91,7 +91,7 @@ function popYupAjax(){
 
 As you'll notice, the href in the trigger link example is simply "#". You can put whatever link you want for the href to serve as a fallback and popYup.js will ignore it if the relationship is "ajax". (The same holds true for inline links, as well.) 
 
-
+<br><br>
 
 **************************
 
@@ -139,7 +139,7 @@ $.popYupOptions = {
 </script>
 ```
 
-
+<br><br>
 
 **************************
 
